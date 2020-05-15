@@ -1,4 +1,4 @@
-module github.com/percona/exporter_shared
+module github.com/cycker/exporter_shared
 
 go 1.12
 
